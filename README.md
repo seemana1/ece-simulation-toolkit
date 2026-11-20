@@ -7,3 +7,5 @@ Automated Python workflows for analyzing time-domain waveforms, computing FFT sp
   ![Signal Preview](signal_preview.png)
 - **Frequency-Domain FFT & SNR Diagnostics:** `analyze_spectrum.py`
   ![FFT Diagnostic](fft_diagnostic.png)
+  - **CSV Log Parsing & Digital Filtering:** `process_simulation_log.py`
+  ![Filtered Log Report](filtered_log_report.png)
